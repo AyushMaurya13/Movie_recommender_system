@@ -11,7 +11,7 @@ It suggests movies similar to your chosen one using **cosine similarity** and **
 - 🔎 Search and select a movie  
 - 🎥 Get **top 5 recommended movies** instantly  
 - 🖥️ Interactive **Streamlit web app**  
-- ⚡ Lightweight and easy to deploy  
+- ⚡ Lightweight and easy to deployment on Streamlit Cloud
 
 ---
 
